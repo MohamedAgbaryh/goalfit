@@ -1,0 +1,18 @@
+[
+  {
+    "username": "user1",
+    "password": "password123",
+    "name": "John Doe",
+    "age": 30,
+    "height": 175,
+    "weight": 75
+  },
+  {
+    "username": "user2",
+    "password": "securepass",
+    "name": "Jane Smith",
+    "age": 28,
+    "height": 165,
+    "weight": 60
+  }
+]

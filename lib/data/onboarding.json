@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Track Your Progress",
+    "description": "Monitor your fitness journey with detailed analytics.",
+    "image": "assets/images/progress.png"
+  },
+  {
+    "title": "Custom Workouts & Nutrition",
+    "description": "Get a personalized plan based on your health goals.",
+    "image": "assets/images/workouts.png"
+  }
+]
