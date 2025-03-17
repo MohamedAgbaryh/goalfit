@@ -1,0 +1,1 @@
+{"inputs":["C:\\projects\\goalfit\\web\\*\\index.html","C:\\projects\\goalfit\\web\\flutter_bootstrap.js","C:\\flutter\\bin\\internal\\engine.version"],"outputs":["C:\\projects\\goalfit\\build\\web\\*\\index.html","C:\\projects\\goalfit\\build\\web\\flutter_bootstrap.js"],"buildKey":"[{\"compileTarget\":\"dart2js\",\"renderer\":\"canvaskit\",\"mainJsPath\":\"main.dart.js\"}]"}
